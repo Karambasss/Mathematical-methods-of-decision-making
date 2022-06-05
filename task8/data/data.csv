@@ -1,4 +1,4 @@
-Telephones,Notebooks,Tablets
-300,280,230
-200,180,130
-240,380,400
+Names_a,Telephones,Notebooks,Tablets,Apples,Potatos
+Tels,300,280,230,300,500
+PC,200,180,130,500,900
+Phones,240,380,400,600,12
